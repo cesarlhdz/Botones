@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Botones</string>
-    <string name="mostrar_mensaje">Mostrar</string>
-    <string name="frase">Escribe tu frase IEST</string>
+    <string name="mostrar_mensaje">Enviar</string>
+    <string name="frase">Escribe tu mensaje por favor</string>
 </resources>
